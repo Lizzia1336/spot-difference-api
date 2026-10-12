@@ -1,0 +1,21 @@
+
+{
+  "levels": [
+    {
+      "id": "level_001",
+      "title": "Kawaii Garden 1",
+      "difficulty": "easy",
+      "imageA": "https://example.com/image-a.png",
+      "imageB": "https://example.com/image-b.png",
+      "differences": [
+        {"x": 0.15, "y": 0.20, "radius": 0.05},
+        {"x": 0.30, "y": 0.35, "radius": 0.05},
+        {"x": 0.45, "y": 0.50, "radius": 0.05},
+        {"x": 0.60, "y": 0.25, "radius": 0.05},
+        {"x": 0.72, "y": 0.60, "radius": 0.05},
+        {"x": 0.85, "y": 0.40, "radius": 0.05}
+      ]
+    }
+  ]
+}
+    
